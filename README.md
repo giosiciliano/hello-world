@@ -1,2 +1,2 @@
 # hello-world
-First git repository
+First git repository, from activities
